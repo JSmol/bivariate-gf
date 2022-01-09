@@ -1,0 +1,14 @@
+[tool.pyright]
+
+typeCheckingMode = "basic"
+useLibraryCodeForTypes = true
+
+venvPath = "."
+venv = "env"
+
+reportWildcardImportFromLibrary = false
+reportMissingTypeStubs = true
+
+pythonVersion = "3.10"
+pythonPlatform = "Linux"
+

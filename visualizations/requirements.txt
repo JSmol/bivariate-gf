@@ -1,0 +1,4 @@
+mpmath==1.2.1
+numpy==1.22.0
+pyglet==1.5.21
+sympy==1.9
